@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.mvform</groupId>
+  <artifactId>FirstMaven</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210316102901</lastUpdated>
+  </versioning>
+</metadata>
